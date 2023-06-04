@@ -1,5 +1,5 @@
 {
-  "Version": 3.6,
-  "Changelog": "Fixed some bugs with the Version Checker and VIP Triggering System",
-  "IsVersionBeta": true
+  "Version": 3.7,
+  "Changelog": "Implemented MySQL-Async & OxMySQL in the same script and fixed SQL issues.",
+  "IsVersionBeta": false
 }

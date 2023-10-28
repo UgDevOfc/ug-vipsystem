@@ -1,5 +1,5 @@
 {
-  "Version": 3.7,
-  "Changelog": "Implemented MySQL-Async & OxMySQL in the same script and fixed SQL issues.",
+  "Version": 3.8,
+  "Changelog": "Implemented public exports for Client & Server Sides (https://docs.ugdev.cf/fivem/ug-vipsystem/exports)",
   "IsVersionBeta": false
 }

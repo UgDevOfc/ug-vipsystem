@@ -1,5 +1,5 @@
 {
-  "Version": 3.8,
-  "Changelog": "Implemented public exports for Client & Server Sides (https://docs.ugdev.cf/fivem/ug-vipsystem/exports)",
+  "Version": 3.9,
+  "Changelog": "Fixed an exploit where users could create VIP codes with the NUI DevTools",
   "IsVersionBeta": false
 }
